@@ -3,6 +3,6 @@ message: "If you use this software, please cite it as below."
 title: "Vapor"
 authors:
   - name: "Yinyue"
-version: 0.0.4
+version: 0.0.5-dev
 doi:
 url: "https://github.com/Yinyue/vapor"
