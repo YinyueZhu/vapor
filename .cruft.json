@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/cthoyt/cookiecutter-snekpack",
-  "commit": "3e1ec8f8cbf62ed005769e9f93304e63497803f2",
+  "commit": "590c1c15b9ec5426ccc7b7c00c780ff547073bdc",
   "checkout": null,
   "context": {
     "cookiecutter": {
