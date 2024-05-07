@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/cthoyt/cookiecutter-snekpack",
+  "commit": "3e1ec8f8cbf62ed005769e9f93304e63497803f2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "vapor",
+      "package_name_stylized": "Vapor",
+      "short_description": "just a test package",
+      "author_name": "Yinyue",
+      "author_email": "zhuyyx86@gmail.com",
+      "github_organization_name": "Yinyue",
+      "github_repository_name": "vapor",
+      "command_line_interface": "True",
+      "gitlab": "False",
+      "_template": "https://github.com/cthoyt/cookiecutter-snekpack"
+    }
+  },
+  "directory": null
+}
